@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Backend server, CI/CD, Go, Rust**
 
-- 👨‍💻 All of my projects are available at [brandon-rafael-lovelyno.vercel.app](brandon-rafael-lovelyno.vercel.app)
+- 👨‍💻 All of my projects are available at [https://brandon-rafael-lovelyno.vercel.app](https://brandon-rafael-lovelyno.vercel.app)
 
 - 💬 Ask me about **Fullstack development, Clean Code, Life**
 
